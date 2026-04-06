@@ -1,0 +1,16 @@
+# CodeIgniter 3 .gitignore
+
+# Ignore application and system files
+application/ 
+system/ 
+
+# Ignore public/uploads
+public/uploads/ 
+
+# Ignore compiled and temporary files
+*.log
+*.cache
+*.tmp
+
+# Ignore environment files
+.env
